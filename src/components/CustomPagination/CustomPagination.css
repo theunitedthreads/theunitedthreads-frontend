@@ -1,0 +1,10 @@
+.rpb-item {
+  border-radius: 50% !important;
+  box-shadow: 0px 0px 4px rgba(68, 67, 67, 0.463) !important;
+  aspect-ratio: 1 / 1 !important;
+  transition: all 0.3s ease-in-out !important;
+}
+
+.rpb-item--active {
+  background-color: var(--primary-black) !important;
+}

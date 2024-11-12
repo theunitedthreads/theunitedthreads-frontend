@@ -1,0 +1,11 @@
+.active {
+  background-color: rgba(0, 0, 0, 0.718);
+  padding-block: 10px;
+  border-radius: 12px;
+  color: var(--primary-white);
+}
+
+.active div:nth-child(2) > div h4,
+.active div:nth-child(2) > div p {
+  color: var(--primary-white) !important;
+}
